@@ -1,16 +1,22 @@
-# custom_camera_app
+# Custom Camera App with Flutter
 
-A new Flutter project.
+A custom camera application built with Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+*   **Cross-platform:** Works on Android and iOS.
+*   **Camera preview:** Shows a live feed from the camera.
+*   **Capture image:** Take pictures using the camera.
+*   **Flash control:** Turn the flash on and off.
+*   **Camera switch:** Switch between the front and back cameras.
+*   **Grid overlay:** Display a grid on top of the camera preview for better composition.
 
-A few resources to get you started if this is your first Flutter project:
+## Future Plans
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*   **Video recording:** Add the ability to record videos.
+*   **Zoom functionality:** Allow users to zoom in and out.
+*   **Filters and effects:** Apply filters and effects to the camera preview and captured images.
+*   **Gallery view:** View and manage captured photos and videos.
+*   **QR code scanner:** Add a QR code scanning feature.
+*   **Portrait mode:** Implement a portrait mode with background blur.
+*   **Manual controls:** Provide manual controls for ISO, shutter speed, and focus.
